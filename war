@@ -1,0 +1,4 @@
+git remote add origin https://github.com/birdguyno1/War.git
+git branch -M main
+git remote add origin https://github.com/AllinOneHomeschool/firstProject.git
+git push -u origin main
